@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "<operationDev>/*": ["./src/*"]
+    }
+  }
+}
